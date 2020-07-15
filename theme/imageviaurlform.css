@@ -24,7 +24,7 @@
 		margin-left: 6px;
 	}
 
-	@mixin ck-imageviaurl-phone {
+	@mixin ck-media-phone {
 		flex-wrap: wrap;
 
 		& .ck-labeled-input {
